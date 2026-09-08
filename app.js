@@ -4,3 +4,10 @@ function print(n){
     }
 }
 print(100);
+
+try{
+    console.log("Ritesh Gajanan Tangade");
+}
+catch{
+    console.log("Error is there");
+}
